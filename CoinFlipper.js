@@ -54,5 +54,11 @@ class Coin extends Component {
     handleClick(e){
         this.flipCoin();
     }
+    render(){
+        return (
+            <>
+            </>
+        )
+    }
 
 }
